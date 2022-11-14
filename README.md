@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in Software Development, Cyber Security, Machine Learning and DevOps Engineering.
-- 🌱 I’m currently working in Fintech.
+- 🌱 I’m currently working in Tech - Platform Engineering/DevOps Engineering.
 - 💞️ I’m looking to collaborate on Open Source projects and side projects.
 - 📫 How to reach me @frankpengau
 
